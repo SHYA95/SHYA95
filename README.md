@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/shrouk-yasser/
 
 -->
+- 🌱 I’m currently learning IOS Development
+- 🤔 I’m looking for help with IOS Development
+- 💬 Ask me about Software Engineering
+- 📫 How to reach me: https://www.linkedin.com/in/shrouk-yasser/
